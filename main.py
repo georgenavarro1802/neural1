@@ -31,7 +31,7 @@ new_input = array([1,1,1,0,1])
 # initialize synapse_weights
 random.seed(1)
 # make use of machine learning formula Delta rule.
-weights = 2 * random.random((5,1)) - 1
+weights = 2 * random.random((5, 1)) - 1
 
 # Test here to see possible weights values
 # print weights
